@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.container{
+    display: flex;
+    margin-bottom: 70px;
+    
+}
+.change_color{
+    color: orange;
+}
+.min-width{
+    width: 25%;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.make_width{
+    width: 30%;
+}
+.text{
+    text-align: center;
+}
+#new-color{
+    background-color: burlywood;
+}
+#new-color2{
+    background-color: cadetblue;
+}
+#new-color3{
+    background-color: darkcyan;
+}
+.link_style{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
