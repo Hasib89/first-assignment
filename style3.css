@@ -5,13 +5,46 @@ body{
     display: flex;
     margin-bottom: 70px;
     padding-left: 50px;
-    
+    padding-right: 50px;  
+}
+.first_section{
+    margin-top: 50px;
+}
+.first_section p{
+    margin: 30px 0px ;
+}
+.first_section img{
+    margin-left: 150px;
+    width: 40%;
+}
+.headings{
+    border-left: 2px solid tomato;
+    padding-left: 10px;
+}
+.second_section img{
+    height: 290px;
+    width: 390px
+}
+.second_section p{
+    margin-bottom: 30px;
+}
+.third_section p{
+    margin-bottom: 30px;
+}
+.develope{
+    margin-left: 80px;
+}
+.third_section img{
+    margin-left: 80px;
+    height: 290px;
+    width: 390px;
 }
 .change_color{
+
     color: orange;
 }
 .min-width{
-    width: 25%;
+   
     padding: 20px;
     margin-left: 20px;
     border-radius: 5px;
@@ -38,9 +71,15 @@ body{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.last_div{
+    margin-left: 130px;
+}
 .style-footer{
     text-align: center;
     background-color: black;
     color: white;
     padding: 10px;
+}
+.style-footer span{
+    color: tomato;
 }
