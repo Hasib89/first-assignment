@@ -47,7 +47,7 @@ body{
    
     padding: 20px;
     margin-left: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .make_width{
     width: 30%;
@@ -73,6 +73,9 @@ body{
 }
 .last_div{
     margin-left: 130px;
+}
+.last_div p{
+    margin-bottom: 30px;
 }
 .style-footer{
     text-align: center;
